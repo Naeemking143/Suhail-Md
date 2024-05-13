@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "𝙉𝘼𝙀𝙀𝙈༒𝙆𝙄𝙉𝙂",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "🇳⃰₀ᷡ₃ͣ₄ͤ₅ͤ₈ͫ₀₁ᷜ₆ͥ₂ᷡ₅ᷛ₆ᷯ"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -41,8 +41,8 @@
     },     
     "READ_COMMAND": {
       "description": " Read bot cmds",
-      "required" :false,    
-      "value": "false"
+      "required" :true,    
+      "value": "true"
     },
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
@@ -51,8 +51,8 @@
     },  
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status", 
-      "required" :false,   
-      "value": "false"
+      "required" :true,   
+      "value": "true"
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -71,7 +71,7 @@
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
-      "required" :false,
+      "required" :true,
       "value": "true"
     }, 
     "MSGS_IN_LOG": {
@@ -95,7 +95,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "923458016256"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -119,16 +119,18 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Created     By.   
+  亗🇳⃰₀ᷡ₃ͣ₄ͤ₅ͤ₈ͫ₀₁ᷜ₆ͥ₂ᷡ₅ᷛ₆ᷯ亗.",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "Created     By.   
+  亗🇳⃰₀ᷡ₃ͣ₄ͤ₅ͤ₈ͫ₀₁ᷜ₆ͥ₂ᷡ₅ᷛ₆ᷯ亗.",
       "required": false 
     }
   }, 
